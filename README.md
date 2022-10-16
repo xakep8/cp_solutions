@@ -1,3 +1,3 @@
-# Cp Solutions
+# CP Solutions
 This repo contains the solution code for many problems from codeforces, codechef and codejam rounds
 I am an avid Competitive programmer and spend my days roaming around on competitive programming platforms. I some times get stuck with questions and find no good editorial for the problem so the best way I see for learning about a problem is by looking how it can be solved in a way and then learn how to solve the same problem in a different way so I have created this repo with the intention of making the solution of some of the codeforces problems available to people like me who like to know how other people have solved the same problem.
